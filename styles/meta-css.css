@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: lightgray;
+}
+h1 {
+    color: black;
+}
+p {
+    color: rgb(50, 104, 155);
+    font-size: x-large;
+}
+hr {
+    color: rgb(50, 104, 155);
+}
+content {
+    text-align: left;
+}
