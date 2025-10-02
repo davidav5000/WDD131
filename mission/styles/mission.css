@@ -1,0 +1,62 @@
+header {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 19px;
+    letter-spacing: 2px;
+    color: rgb(66, 164, 209);
+    margin-bottom: 0px;
+    font-family: 'Times New Roman';
+}
+hr {
+    width: 50%;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    border: 1px solid rgb(207, 206, 206);
+}
+#mission {
+    text-align: left;
+    font-size: 23px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 50px;
+    line-height: 1.6;
+    font-family: 'Times New Roman';
+}
+#pre {
+    text-align: left;
+    font-size: 23px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10px;
+    line-height: 1.6;
+    font-family: 'Times New Roman';
+    font-style: italic;
+}
+#list {
+    text-align: left;
+    font-size: 23px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 10px;
+    line-height: 1.6;
+    font-family: 'Times New Roman';
+    list-style: decimal;
+}
+li {
+    padding: 10px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 120px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
